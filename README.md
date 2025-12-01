@@ -50,7 +50,7 @@
 bash
 
 # Клонируйте репозиторий
-git clone [https://github.com/yourusername/bugbounty-script.git](https://github.com/Pavel253/BugBounty-script.git)
+git clone [https://github.com/mapanit/BugBounty-script/](https://github.com/mapanit/BugBounty-script/)
 cd bugbounty-script
 
 # Запустите скрипт установки
